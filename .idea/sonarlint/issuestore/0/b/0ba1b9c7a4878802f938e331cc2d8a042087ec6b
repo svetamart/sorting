@@ -1,0 +1,22 @@
+
+V
+java:S1854"9Remove this useless assignment to local variable "shell".(¼ıÖÌ8¢£§ûó1
+V
+java:S1854"9Remove this useless assignment to local variable "quick".(»”â¢8¢£§ûó1
+V
+java:S1854"9Remove this useless assignment to local variable "merge".(¸üÌ 8££§ûó1
+Z
+java:S1854"8Remove this useless assignment to local variable "heap".(óõ­øÿÿÿÿ8š¯¨ûó1
+K
+java:S1481")Remove this unused "heap" local variable.(óõ­øÿÿÿÿ8¯¨ûó1
+G
+java:S1481"*Remove this unused "merge" local variable.(¸üÌ 8§£§ûó1
+G
+java:S1481"*Remove this unused "quick" local variable.(»”â¢8¨£§ûó1
+G
+java:S1481"*Remove this unused "shell" local variable.(¼ıÖÌ8¨£§ûó1
+G	java:S106 "+Replace this use of System.out by a logger.(øÑä8­òƒûó1
+G	java:S106!"+Replace this use of System.out by a logger.(ÛÁĞÖ8­òƒûó1
+L	java:S106""+Replace this use of System.out by a logger.(Ã ©İûÿÿÿÿ8­òƒûó1
+G	java:S106#"+Replace this use of System.out by a logger.(²Ä¸Š8®òƒûó1
+]	java:S125$"<This block of commented-out lines of code should be removed.(Íñğ‰ÿÿÿÿÿ8 ¯¨ûó1
